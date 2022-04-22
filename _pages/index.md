@@ -7,18 +7,16 @@ permalink: /
 # 自己紹介    
 ## 名前 youser name 
 ***
-- 経歴 
+- 経歴  
    - a  
-   - b    
-    
+   - b
 - 受賞歴  
-    - a  
-    - b    
-    
-- 資格  
-    - a  
-    - b  
-    - c      
+  - a  
+  - b    
+- 資格 
+  - a  
+  - b  
+  - c      
     
 - 参加プロジェクト  
    - Space Tuna Beyond  
